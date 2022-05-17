@@ -1,0 +1,59 @@
+footer{
+    background-color: #343A40;
+}
+footer#bottom{
+    background-color: #212529;
+}
+footer#bottom p{
+    color: #ced4da;
+}
+footer#main h3{
+    color: #ADB5BD;
+}
+footer#main ul{
+    padding-inline-start: 0px;
+}
+footer#main ul li{
+    list-style: none;
+    color: aliceblue;
+}
+footer#main ul li a{
+    list-style: none;
+    color: #dee2e6;
+}
+h1.nombre-programa {
+    font-size: 20px;
+}
+h3.clave-programa {
+    font-size: 21px;
+    font-weight: 800;
+}
+h1.nombre-dato {
+    font-size: 26px;
+    color: #5e5e5e;
+}
+p.activos.text-center {
+    font-weight: 800;
+    font-size: 22px;
+}
+.ganancia{
+    color: darkgreen;
+}
+p.rango.text-center {
+    color: gray;
+    font-weight: 300;
+}
+span.minimo {
+    color: #000;
+    font-weight: 600;
+}
+span.maximo {
+    color: #000;
+    font-weight: 600;
+}
+#generales p {
+    margin-bottom: 0px;
+}
+#grafica p {
+    margin-bottom: 0px;
+}
